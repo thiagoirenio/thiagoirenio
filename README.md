@@ -24,6 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)&nbsp;
  
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
@@ -45,7 +46,6 @@
 ![sqlite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
 ![firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![android](https://img.shields.io/badge/-android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)&nbsp;
 
 <!--
 ![kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
