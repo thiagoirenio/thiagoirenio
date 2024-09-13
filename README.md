@@ -20,6 +20,10 @@
 </div> 
  
 ### Main skills:
+![javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp;
+![Npm](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)&nbsp;
+![React](https://img.shields.io/badge/logo-react-blue?logo=react)&nbsp;
+
 ![kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![jetpackcompose](https://img.shields.io/badge/-jetpackcompose-0D1117?style=for-the-badge&logo=jetpackcompose&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![sqlite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
@@ -47,10 +51,13 @@
 ![kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![sqlite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
 ![firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-![javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp;
-![Npm](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)&nbsp;
-![React](https://img.shields.io/badge/logo-react-blue?logo=react)&nbsp;
+<!--
+![kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
+![jetpackcompose](https://img.shields.io/badge/-jetpackcompose-0D1117?style=for-the-badge&logo=jetpackcompose&logoColor=purple&labelColor=0D1117)&nbsp; 
+![sqlite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
+![firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
+-->
+ 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
