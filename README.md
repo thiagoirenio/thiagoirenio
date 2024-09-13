@@ -45,7 +45,6 @@
 ![sqlite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
 ![firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![android](https://img.shields.io/badge/-android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![jetbrains](https://img.shields.io/badge/-jetbrains-0D1117?style=for-the-badge&logo=jetbrains&logoColor=90ee90&labelColor=0D1117)&nbsp;
 
 <!--
 ![kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
