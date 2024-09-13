@@ -25,8 +25,6 @@
 ![React](https://img.shields.io/badge/logo-react-blue?logo=react)&nbsp;
  
 ### Tools:
-![android](https://img.shields.io/badge/-android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![jetbrains](https://img.shields.io/badge/-jetbrains-0D1117?style=for-the-badge&logo=jetbrains&logoColor=90ee90&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![neovim](https://img.shields.io/badge/-neovim-0D1117?style=for-the-badge&logo=neovim&labelColor=0D1117)&nbsp;
@@ -46,6 +44,9 @@
 ![kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![sqlite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
 ![firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
+![android](https://img.shields.io/badge/-android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![jetbrains](https://img.shields.io/badge/-jetbrains-0D1117?style=for-the-badge&logo=jetbrains&logoColor=90ee90&labelColor=0D1117)&nbsp;
+
 <!--
 ![kotlin](https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![jetpackcompose](https://img.shields.io/badge/-jetpackcompose-0D1117?style=for-the-badge&logo=jetpackcompose&logoColor=purple&labelColor=0D1117)&nbsp; 
