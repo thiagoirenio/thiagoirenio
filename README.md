@@ -20,10 +20,6 @@
 </div> 
  
 ### Main skills:
-![javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp;
-![Npm](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)&nbsp;
-![React](https://img.shields.io/badge/logo-react-blue?logo=react)&nbsp;
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
