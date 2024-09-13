@@ -28,7 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![neovim](https://img.shields.io/badge/-neovim-0D1117?style=for-the-badge&logo=neovim&labelColor=0D1117)&nbsp;
-![vim](https://img.shields.io/badge/-vim-0D1117?style=for-the-badge&logo=vim&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -51,6 +50,8 @@
 ![jetpackcompose](https://img.shields.io/badge/-jetpackcompose-0D1117?style=for-the-badge&logo=jetpackcompose&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![sqlite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
 ![firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+![vim](https://img.shields.io/badge/-vim-0D1117?style=for-the-badge&logo=vim&labelColor=0D1117)&nbsp;
 -->
  
 
